@@ -5,11 +5,11 @@
 
 2 - Are names more popular in certain regions than others?
 
-3 - Tech Stack:
-    - Python
-    - Pandas - read data into Python and EDA
-    - Matplotlib and Seaborn - Visualization of name data
-    - Plotly - Interactive dashboard
+3 - Tech Stack:  
+    - Python. 
+    - Pandas - read data into Python and EDA  
+    - Matplotlib and Seaborn - Visualization of name data. 
+    - Plotly - Interactive dashboard. 
 
 4 - Data Sources
     - Baby Names from Social Security Card Applications - State and District of Columbia Data 
